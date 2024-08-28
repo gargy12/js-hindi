@@ -7,9 +7,11 @@
 // Readibility should be high
 
 
- let name = "Yash" //String Data type//
-// let age = 18 //Num Data type //
+// let name = "Yash" //String Data type//
+ //let age = 18 //Num Data type //
  //let isloggedIn = True // Boolean //
+ let state; // undefined //
+
 
 //number = 2 
 //bigint
