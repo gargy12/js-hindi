@@ -13,4 +13,5 @@ console.log(accountEmail);
 console.table([accountId , accountEmail , accountPassword , accountCity , accountState])
 
 /* Prefer not to use scope
-because of issue in block scope and functional scope*/
+because of issue in block scope and functional scope
+if value is declared and the data is not stored than the output will be undefined*/
