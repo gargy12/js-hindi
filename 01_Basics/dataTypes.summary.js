@@ -2,7 +2,7 @@
 
 // primitive
 
-// 7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
+// 7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt symbol use to make any value unique
 
 const score = 100
 const scoreValue = 100.3
