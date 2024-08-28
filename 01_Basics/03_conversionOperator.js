@@ -16,3 +16,9 @@ let isLoggedIn = 1
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn);
+
+let s = 10
+
+letstringNumber = String(s)
+console.log(typeof stringNumber);
+console.log(s);
