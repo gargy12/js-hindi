@@ -42,7 +42,14 @@ let str3 = str1+str2
 
 // console.log((3 + 4) * 5  % 3);
 
-console.log(+true);
+//console.log(+true);
+// console.log(+"");
+
+let gameCounter = 101
+gameCounter++;
+console.log(gameCounter);
+
+
 
 
 
