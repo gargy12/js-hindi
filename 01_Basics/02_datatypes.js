@@ -7,3 +7,6 @@ console.log(3
 )// Readibility should be high
 
 
+let name = "Yash" //String Data type//
+let age = 18 //Num Data type //
+let isloggedIn = True // Boolean //
