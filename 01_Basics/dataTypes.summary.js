@@ -30,8 +30,35 @@ let myObj = {
     age: 22,
 }
 
+
 const myFunction = function(){
     console.log("Hello world");
 }
 
 console.log(typeof anotherId);
+
+// ++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primitive), Heap (Non primitive)
+
+let name ="hello"
+
+let anothername = hello
+anothername = "Hi"
+
+console.log(hello);
+console.log(anothername);
+
+let user1 ={
+    email: "12@gmail.com"
+    upi: "user@ibl"
+}
+
+let user2 = user1
+
+user2.email = "ww@gmail.com"
+console.log(user1.email);
+console.log(user2.email);
+
+
+
