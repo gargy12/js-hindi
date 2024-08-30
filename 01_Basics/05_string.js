@@ -1,4 +1,4 @@
-const name = "yash"
+const name = "yash-garg"
 const repoCount = 10
 
 //console.log(name + repoCount + "value");
@@ -12,9 +12,22 @@ const repoCount = 10
 const gameName = new String ('Yash')
 
 
-console.log(gameName.__proto__);
+// console.log(gameName.__proto__);
 
 // console.log(gameName.length);
 // console.log(gameName.toUpperCase());
 
-console.log(gameName.charAt(2));
+// console.log(gameName.charAt(2));
+
+const newString = gameName.substring(0 , 2)
+
+/console.log(newString);
+
+const anotherString = gameName.slice (-3,1)
+// console.log(anotherString);
+
+const newStringOne  = "  hitesh   "
+console.log(newStringOne);
+//console.log(newStringOne.trim());
+
+
