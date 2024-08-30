@@ -21,13 +21,16 @@ const gameName = new String ('Yash')
 
 const newString = gameName.substring(0 , 2)
 
-/console.log(newString);
+//console.log(newString);
 
 const anotherString = gameName.slice (-3,1)
 // console.log(anotherString);
 
-const newStringOne  = "  hitesh   "
-console.log(newStringOne);
+//const newStringOne  = "  hitesh   "
+//console.log(newStringOne);
 //console.log(newStringOne.trim());
 
+const url ="https://yash.com/yash%20garg"
+
+console.log(url.replace('%20', '-'))
 
