@@ -5,7 +5,7 @@
 (function chai(){
     // named IIFE
     console.log(`DB CONNECTED`);
-})();
+})(); // ; used to terimnate iife
 
 ( (name) => {
     console.log(`DB CONNECTED TWO ${name}`);
