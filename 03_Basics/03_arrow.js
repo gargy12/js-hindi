@@ -58,4 +58,4 @@ console.log(addTwo(3, 4))
 // myArray.forEach()
 
 // => also define arrow function
-
+// in implicit return paranthesis is not used
