@@ -19,7 +19,9 @@ for (const greet of greetings) {
     //console.log(`Each char is ${greet}`)
 }
 
-// Maps
+// Maps - it is a object that hold key value pairs
+// it remebers the original insertion order of keys
+// key occur in the map only once and it is unique
 
 const map = new Map()
 map.set('IN', "India")
