@@ -22,6 +22,8 @@ for (const greet of greetings) {
 // Maps - it is a object that hold key value pairs
 // it remebers the original insertion order of keys
 // key occur in the map only once and it is unique
+// Maps are not itterable
+
 
 const map = new Map()
 map.set('IN', "India")
