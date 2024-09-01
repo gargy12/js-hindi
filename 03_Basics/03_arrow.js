@@ -59,3 +59,5 @@ console.log(addTwo(3, 4))
 
 // => also define arrow function
 // in implicit return paranthesis is not used
+//{} writing return keyword is comppulsory
+//() return keyword is not used
